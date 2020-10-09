@@ -35,7 +35,7 @@ git clone https://github.com/V7hinc/ssr_server_client.git
 ```
 4. 构建docker镜像
 ```shell script
-docker build -t V7hinc/ssr_server_client .
+docker build -t v7hinc/ssr_server_client .
 # docker仓库https://hub.docker.com/r/v7hinc/ssr_server_client
 ```
 4. 启动server端
